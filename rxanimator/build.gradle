@@ -21,17 +21,17 @@ dependencies {
 
 ext {
     bintrayRepo = 'maven'
-    bintrayName = 'ExpectAnim'
+    bintrayName = 'RxAnimator'
     orgName = 'florent37'
 
     publishedGroupId = 'com.github.florent37'
-    libraryName = 'ExpectAnim'
-    artifact = 'expectanim'
+    libraryName = 'RxAnimator'
+    artifact = 'rxanimator'
 
-    libraryDescription = 'ExpectAnim'
+    libraryDescription = 'RxAnimator'
 
-    siteUrl = 'https://github.com/florent37/ExpectAnim'
-    gitUrl = 'https://github.com/florent37/ExpectAnim.git'
+    siteUrl = 'https://github.com/florent37/RxAnimator'
+    gitUrl = 'https://github.com/florent37/RxAnimator.git'
 
     libraryVersion = rootProject.ext.libraryVersion
 
