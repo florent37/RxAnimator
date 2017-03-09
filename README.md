@@ -52,7 +52,7 @@ RxView.clicks(view)
 # Trigger event
 
 By default the observable submits when the animator ends
-You can configure it using `.animationTriggerEvent(Event.START, Event.END, Event.CANCEL, EVENT.RESTART)`
+You can configure it using `.animationTriggerEvent(Event.START / Event.END / Event.CANCEL / EVENT.RESTART)`
 
 # Download
 
